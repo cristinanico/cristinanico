@@ -1,4 +1,7 @@
-### Hola, soy Cris 🖖🏼🙃💻
+<h1 align="center">Hola, soy Cris 🖖🏼🙃💻</h1> 
+
+
+<img class="profile" align="left" src="https://github.com/cristinanico/cristinanico/blob/main/img-profile?raw=true" alt="Github profile avatar" height="250px" />
 
 
 
@@ -22,7 +25,7 @@ const  cristinanico = {
     inProgress: ["TypeScript", "Tailwind"]
   }
 ```
-Puedes encontrarme pinchando en las etiquetas 🏷️ 👇🏻
+## Puedes encontrarme pinchando en las etiquetas 🏷️ 👇🏻
 
 <div align="center" style="margin: 2rem auto;">
 <p align="center" style="display: flex; justify-content: center; gap: 1rem;">
@@ -41,17 +44,3 @@ Puedes encontrarme pinchando en las etiquetas 🏷️ 👇🏻
 
 [![Cris profile views](https://u8views.com/api/v1/github/profiles/142333230/views/day-week-month-total-count.svg)](https://u8views.com/github/cristinanico)
 
-<!--
-**cristinanico/cristinanico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

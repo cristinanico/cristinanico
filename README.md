@@ -25,7 +25,7 @@ const  cristinanico = {
 ```
 
 
-<h3>Puedes encontrarme pinchando en las etiquetas 🏷️ </h3>
+<h3>Puedes encontrarme pinchando en los iconos 📍</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 1rem;">
     <a href="mailto:cristinanicodev@gmail.com">
     <img align="left" alt="Cristina Nicolás Email" width="27px" src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>

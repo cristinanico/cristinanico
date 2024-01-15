@@ -3,8 +3,6 @@
 
 <img class="profile" align="left" src="https://github.com/cristinanico/cristinanico/blob/main/img-profile?raw=true" alt="Github profile avatar" height="250px" />
 
-
-
 ```js
 const  cristinanico = {
   code: ["Javascript"],
@@ -25,9 +23,9 @@ const  cristinanico = {
     inProgress: ["TypeScript", "Tailwind"]
   }
 ```
-## Puedes encontrarme pinchando en las etiquetas 🏷️ 👇🏻
 
-<div align="center" style="margin: 2rem auto;">
+
+<h3>Puedes encontrarme pinchando en las etiquetas 🏷️ </h3>
 <p align="center" style="display: flex; justify-content: center; gap: 1rem;">
     <a href="mailto:cristinanicodev@gmail.com">
     <img align="left" alt="Cristina Nicolás Email" width="27px" src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
@@ -38,9 +36,16 @@ const  cristinanico = {
     <img align="left" alt="Cristina Nicolás | Twitter" width="30px" src="https://img.icons8.com/pulsar-color/64/000000/twitterx.png" />
     </a>
 </p>
-</div>
+
+
+
+
+
+
 
 <br /><br />
+
+[![gitHub](https://img.shields.io/badge/Github-black?logo=github&logoColor=white)](https://github.com/cristinanico)
 
 [![Cris profile views](https://u8views.com/api/v1/github/profiles/142333230/views/day-week-month-total-count.svg)](https://u8views.com/github/cristinanico)
 

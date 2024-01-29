@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Cris 🖖🏼🙃💻</h1> 
+<h1 align="center">Hola, soy Cris 🙃💻</h1> 
 
 
 <img class="profile" align="left" src="https://github.com/cristinanico/cristinanico/blob/main/img-profile?raw=true" alt="Github profile avatar" height="250px" />

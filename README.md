@@ -5,7 +5,7 @@
 
 ```js
 const  cristinanico = {
-  code: ["Javascript"],
+  code: ["JavaScript"],
   askMeAbout: ["web dev", "tech", "app dev", "pintaAPIs"],
   technologies: {
     frontEnd: {

@@ -20,7 +20,7 @@ const  cristinanico = {
     misc: ["git", "agile", "slack"],
   },
   future: {
-    inProgress: ["TypeScript", "Tailwind"]
+    inProgress: ["Ruby", "TypeScript", "Tailwind"]
   }
 ```
 
